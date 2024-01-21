@@ -3,7 +3,8 @@ function functionName() {
 	alert(functionName);
 }
 functionName();
+
 function AccioJob() {
-	alert(AccioJob;
+	alert(AccioJob);
 }
 AccioJob();
